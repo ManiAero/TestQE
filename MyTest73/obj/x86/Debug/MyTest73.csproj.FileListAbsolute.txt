@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest73\MyTest73\bin\Debug\MyTest73.rxtmg
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest73\MyTest73\bin\Debug\MyTest73.rxtst
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest73\MyTest73\bin\Debug\MyTest73.exe.config
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest73\MyTest73\bin\Debug\MyTest73.xml
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest73\MyTest73\bin\Debug\MyTest73.exe
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest73\MyTest73\bin\Debug\MyTest73.pdb
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest73\MyTest73\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest73\MyTest73\obj\x86\Debug\MyTest73.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest73\MyTest73\obj\x86\Debug\MyTest73.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest73\MyTest73\obj\x86\Debug\MyTest73.csproj.CopyComplete
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest73\MyTest73\obj\x86\Debug\MyTest73.exe
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest73\MyTest73\obj\x86\Debug\MyTest73.pdb

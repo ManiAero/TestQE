@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="ea5ab545-0034-4d86-8e87-8bcc4be1feed"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="StartAUT"
+	namespace="MyTest73">
+	</codegen>
+	<variables>
+		<var
+		id="02c739c2-d71f-41a0-95fa-20fbbf0091a6"
+		name="StartAutProcessIDVar">
+		</var>
+	</variables>
+	<recorditems>
+		<runapprecorditem
+		enabled="True"
+		maximized="False"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+				<binding
+				target="ReturnVariable"
+				variable="StartAutProcessIDVar">
+				</binding>
+			</bindings>
+			<filename>
+				D:\case files\Ranorex Files\Demo.exe
+			</filename>
+			<args>
+			</args>
+		</runapprecorditem>
+	</recorditems>
+	<repository
+	id="62d3483e-552c-4b51-80b5-8038da00d931"
+	name="MyTest73Repository"
+	relativepath="MyTest73Repository.rxrep">
+		<codegen
+		classname="MyTest73Repository"
+		namespace="MyTest73">
+		</codegen>
+		<rootfolder
+		id="f383a4c3-1cc1-4120-a314-25579dd95e73"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		StartAUT.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

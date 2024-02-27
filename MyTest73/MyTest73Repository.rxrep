@@ -1,0 +1,51 @@
+﻿<repository
+id="62d3483e-552c-4b51-80b5-8038da00d931"
+name="MyTest73Repository">
+	<codegen
+	classname="MyTest73Repository"
+	namespace="MyTest73">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="f383a4c3-1cc1-4120-a314-25579dd95e73"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="True">
+		<appfolder
+		addcaps="form,control,nativewindow"
+		capname="form"
+		id="7e77cbd2-8793-49dd-aa31-7900137fac28"
+		isrooted="True"
+		name="RxMainFrame"
+		refpath="/form[@controlname='RxMainFrame']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="text,control,nativewindow"
+			capname="text"
+			id="af4483a8-d9c2-4dbe-ba08-088721eb2071"
+			name="TxtUserName"
+			refimgid="701c1316-d51b-41a1-802f-e49dc6a22cb8"
+			refpath="/form[@controlname='RxMainFrame']/tabpagelist[@controlname='RxTabcontrol']/tabpage[@controlname='RxTabIntroduction']/text[@controlname='txtUserName']"
+			robustPath="/form[@controlname='RxMainFrame']//text[@controlname='txtUserName']"
+			searchtimeout="30000ms">
+				/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabIntroduction']/text[@controlname='txtUserName']
+			</item>
+			<basepath>
+				/form[@controlname='RxMainFrame']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAACdSURBVDhPY0AGISEhlUFBQb+IxDOg2iAgODj4
+FBB3QbmkA6Dm/yD6AZvwvPvsQhvhmBUTXxcW5gVrQgYgA9LS0ljvcwpZ3GcXdsSH/zOEMkO1IQDI
+ACD+DcSfsGCQHLpYLVQrBAAF/tfX1zNBuXhBeHi4AlD9bygXAkAGQJlEgVEDhrUBjBAeYYBhADB7
+BoAMAeIGIvB8IAYawMAAAA20kY5E9ZbiAAAAAElFTkSuQmCC
+			</icon>
+		</appfolder>
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>
